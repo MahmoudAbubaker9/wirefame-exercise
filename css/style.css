@@ -76,6 +76,7 @@ footer{
 a {
     background-color: powderblue;
     transition: background-color .5s;
+    margin: 300px;
  
   }
 a:hover {
